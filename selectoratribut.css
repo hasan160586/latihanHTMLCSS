@@ -1,0 +1,6 @@
+input[type=text] {
+    background:black;
+    color: cyan;
+    padding: 10px;
+    border: 1px solid cyan;
+}
